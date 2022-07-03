@@ -1,0 +1,41 @@
+﻿生成启动时间为 2022/7/3 18:12:52。
+     1>项目“F:\qtcode\005\gitTest\gitTest\gitTest.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“F:\qtcode\005\gitTest\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\gitTest.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\gitTest.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\gitTest.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt gitTest.cpp gitTestDlg.cpp
+         gitTestDlg.cpp
+         gitTest.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\gitTest.res" gitTest.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\gitTest.exe.embed.manifest.res" Debug\gitTest_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\qtcode\005\gitTest\Debug\gitTest.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\gitTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\qtcode\005\gitTest\Debug\gitTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\qtcode\005\gitTest\Debug\gitTest.lib" /MACHINE:X86 Debug\gitTest.res
+         Debug\gitTest.exe.embed.manifest.res
+         Debug\gitTest.obj
+         Debug\gitTestDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\gitTest.exe.embed.manifest" /manifest Debug\gitTest.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\gitTest.exe.embed.manifest.res" Debug\gitTest_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\qtcode\005\gitTest\Debug\gitTest.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\gitTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\qtcode\005\gitTest\Debug\gitTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\qtcode\005\gitTest\Debug\gitTest.lib" /MACHINE:X86 Debug\gitTest.res
+         Debug\gitTest.exe.embed.manifest.res
+         Debug\gitTest.obj
+         Debug\gitTestDlg.obj
+         Debug\stdafx.obj
+         gitTest.vcxproj -> F:\qtcode\005\gitTest\Debug\gitTest.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\gitTest.unsuccessfulbuild”。
+         正在对“Debug\gitTest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\qtcode\005\gitTest\gitTest\gitTest.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.08
